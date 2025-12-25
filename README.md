@@ -1,5 +1,4 @@
-# Customer_Segmentation_Project
-This is how I used machine learning in the customer clustering project
+
 # Customer Segmentation Project
 
 This project demonstrates how I used machine learning for customer clustering. 
